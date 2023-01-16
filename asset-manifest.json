@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_drum_machime/static/css/main.4b8dd1d6.css",
+    "main.js": "/React_drum_machime/static/js/main.527980d3.js",
+    "index.html": "/React_drum_machime/index.html",
+    "main.4b8dd1d6.css.map": "/React_drum_machime/static/css/main.4b8dd1d6.css.map",
+    "main.527980d3.js.map": "/React_drum_machime/static/js/main.527980d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b8dd1d6.css",
+    "static/js/main.527980d3.js"
+  ]
+}
