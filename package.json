@@ -1,7 +1,7 @@
 {
   "name": "drun-machine",
   "version": "0.1.0",
-  "homepage": "https://jamesguerrier.github.io/React_drum_machime",
+  "homepage": "https://jamesguerrier.github.io/React_drum_machine",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
